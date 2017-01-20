@@ -3,7 +3,8 @@ Lab การวิเคราะห์ข้อมูลภาพจากด�
 
 # โปรแกรมที่ใช้งาน
 1. QGIS version 2.6.1 (เพราะคลิกขวา properties เร็วดี)
-2. ปลั๊กอิน Semi-Automatic Classification Plugin (SCP) https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/
+2. QGIS version 2.14 (Long term release)
+3. ปลั๊กอิน Semi-Automatic Classification Plugin (SCP) https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/
 
 # ข้อมูลที่ใช้งาน
 1. ข้อมูลภาพ Landsat 8
