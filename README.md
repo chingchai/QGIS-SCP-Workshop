@@ -24,7 +24,7 @@
   - Band 10 >> Thermal Infrared (TIRS) 1 >> 10.60 - 11.19 >> 100 (resampled to 30)
   - Band 11 >> Thermal Infrared (TIRS) 2 >>	11.50 - 12.51 >> 100 (resampled to 30)
   - The resolutions of Landsat 8 sensor are reported in the following table (from http://landsat.usgs.gov/band_designations_landsat_satellites.php); also, Landsat temporal resolution is 16 days (NASA, 2013).
-  
+
 # References
   - https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/
   - https://fromgistors.blogspot.com/
