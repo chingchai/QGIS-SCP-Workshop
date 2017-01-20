@@ -1,5 +1,6 @@
 # QGIS-SCP-Workshop
-Lab การวิเคราะห์ข้อมูลภาพจากดาวเทียมด้วย QGIS
+- Lab การวิเคราะห์ข้อมูลภาพจากดาวเทียมด้วย QGIS
+- สามารถเข้าไปดาวน์โหลดข้อมูลได้ที่ https://drive.google.com/open?id=0B7_SCiXhVHdtSDl2RG8yMk90cVk
 
 # โปรแกรมที่ใช้งาน
 1. QGIS version 2.6.1 (เพราะคลิกขวา properties เร็วดี)
