@@ -1,0 +1,2314 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.14.11-Essen">
+  <title></title>
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="lu_classify_shp20170311144339473" name="lu_classify.shp">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" checked="Qt::Checked" id="lu_classify_tif20170311144238026" name="lu_classify.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_143103807000previewtemp_tif20170311143105511" name="20170311_143103807000previewtemp.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="Class_temp_group">
+      <customproperties/>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_143059084000previewtemp_tif20170311143100848" name="20170311_143059084000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_143051316000previewtemp_tif20170311143053157" name="20170311_143051316000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="20170311_143031977000previewtemp_tif20170311143033743" name="20170311_143031977000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142948839000previewtemp_tif20170311142950546" name="20170311_142948839000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142926783000previewtemp_tif20170311142927800" name="20170311_142926783000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142920462000previewtemp_tif20170311142921493" name="20170311_142920462000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142914981000previewtemp_tif20170311142916050" name="20170311_142914981000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142908376000previewtemp_tif20170311142909450" name="20170311_142908376000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142900442000previewtemp_tif20170311142901494" name="20170311_142900442000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142844507000previewtemp_tif20170311142845561" name="20170311_142844507000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142838062000previewtemp_tif20170311142839302" name="20170311_142838062000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142519158000previewtemp_tif20170311142520194" name="20170311_142519158000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="20170311_142500380000previewtemp_tif20170311142501405" name="20170311_142500380000previewtemp.tif">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="roi_utt20170311131710996" name="roi_utt">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Landsat_utt20170311120215843" name="Landsat_utt">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="amphoe_utt20170311112804432" name="amphoe_utt">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="amp_site220170311113537959" name="amp_site2">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="RT_LC81300482017016LGN00_Bstack_raster_tif20170311103459016" name="RT_LC81300482017016LGN00_Bstack_raster.tif">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>614277.75056934298481792</xmin>
+      <ymin>1942882.02062914636917412</ymin>
+      <xmax>631202.83114295324776322</xmax>
+      <ymax>1960186.63737179967574775</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3131</srsid>
+        <srid>32647</srid>
+        <authid>EPSG:32647</authid>
+        <description>WGS 84 / UTM zone 47N</description>
+        <projectionacronym>utm</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>RT_LC81300482017016LGN00_Bstack_raster_tif20170311103459016</item>
+      <item>amphoe_utt20170311112804432</item>
+      <item>amp_site220170311113537959</item>
+      <item>Landsat_utt20170311120215843</item>
+      <item>roi_utt20170311131710996</item>
+      <item>20170311_142500380000previewtemp_tif20170311142501405</item>
+      <item>20170311_142519158000previewtemp_tif20170311142520194</item>
+      <item>20170311_142838062000previewtemp_tif20170311142839302</item>
+      <item>20170311_142844507000previewtemp_tif20170311142845561</item>
+      <item>20170311_142900442000previewtemp_tif20170311142901494</item>
+      <item>20170311_142908376000previewtemp_tif20170311142909450</item>
+      <item>20170311_142914981000previewtemp_tif20170311142916050</item>
+      <item>20170311_142920462000previewtemp_tif20170311142921493</item>
+      <item>20170311_142926783000previewtemp_tif20170311142927800</item>
+      <item>20170311_142948839000previewtemp_tif20170311142950546</item>
+      <item>20170311_143031977000previewtemp_tif20170311143033743</item>
+      <item>20170311_143051316000previewtemp_tif20170311143053157</item>
+      <item>20170311_143059084000previewtemp_tif20170311143100848</item>
+      <item>20170311_143103807000previewtemp_tif20170311143105511</item>
+      <item>lu_classify_tif20170311144238026</item>
+      <item>lu_classify_shp20170311144339473</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="lu_classify.shp" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="lu_classify_shp20170311144339473" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="lu_classify.tif" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="lu_classify_tif20170311144238026" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_143103807000previewtemp.tif" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="20170311_143103807000previewtemp_tif20170311143105511" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendgroup open="false" checked="Qt::Unchecked" name="Class_temp_group">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_143059084000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_143059084000previewtemp_tif20170311143100848" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_143051316000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_143051316000previewtemp_tif20170311143053157" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="20170311_143031977000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_143031977000previewtemp_tif20170311143033743" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142948839000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142948839000previewtemp_tif20170311142950546" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142926783000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142926783000previewtemp_tif20170311142927800" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142920462000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142920462000previewtemp_tif20170311142921493" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142914981000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142914981000previewtemp_tif20170311142916050" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142908376000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142908376000previewtemp_tif20170311142909450" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142900442000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142900442000previewtemp_tif20170311142901494" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142844507000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142844507000previewtemp_tif20170311142845561" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142838062000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142838062000previewtemp_tif20170311142839302" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142519158000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142519158000previewtemp_tif20170311142520194" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="20170311_142500380000previewtemp.tif" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="20170311_142500380000previewtemp_tif20170311142501405" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="roi_utt" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="roi_utt20170311131710996" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Landsat_utt" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Landsat_utt20170311120215843" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="amphoe_utt" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="amphoe_utt20170311112804432" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="amp_site2" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="amp_site220170311113537959" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="RT_LC81300482017016LGN00_Bstack_raster.tif" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RT_LC81300482017016LGN00_Bstack_raster_tif20170311103459016" visible="0"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>612645</xmin>
+        <ymin>1945335</ymin>
+        <xmax>618645</xmax>
+        <ymax>1951335</ymax>
+      </extent>
+      <id>20170311_142500380000previewtemp_tif20170311142501405</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142500380000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142500380000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>614835</xmin>
+        <ymin>1941555</ymin>
+        <xmax>620835</xmax>
+        <ymax>1947555</ymax>
+      </extent>
+      <id>20170311_142519158000previewtemp_tif20170311142520194</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142519158000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142519158000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>614745</xmin>
+        <ymin>1942245</ymin>
+        <xmax>620745</xmax>
+        <ymax>1948245</ymax>
+      </extent>
+      <id>20170311_142838062000previewtemp_tif20170311142839302</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142838062000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142838062000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>614925</xmin>
+        <ymin>1941915</ymin>
+        <xmax>620925</xmax>
+        <ymax>1947915</ymax>
+      </extent>
+      <id>20170311_142844507000previewtemp_tif20170311142845561</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142844507000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142844507000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>613875</xmin>
+        <ymin>1946895</ymin>
+        <xmax>619875</xmax>
+        <ymax>1952895</ymax>
+      </extent>
+      <id>20170311_142900442000previewtemp_tif20170311142901494</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142900442000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142900442000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>615195</xmin>
+        <ymin>1937895</ymin>
+        <xmax>621195</xmax>
+        <ymax>1943895</ymax>
+      </extent>
+      <id>20170311_142908376000previewtemp_tif20170311142909450</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142908376000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142908376000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>615105</xmin>
+        <ymin>1938435</ymin>
+        <xmax>621105</xmax>
+        <ymax>1944435</ymax>
+      </extent>
+      <id>20170311_142914981000previewtemp_tif20170311142916050</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142914981000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142914981000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>613215</xmin>
+        <ymin>1944075</ymin>
+        <xmax>619215</xmax>
+        <ymax>1950075</ymax>
+      </extent>
+      <id>20170311_142920462000previewtemp_tif20170311142921493</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142920462000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142920462000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>616185</xmin>
+        <ymin>1948185</ymin>
+        <xmax>622185</xmax>
+        <ymax>1954185</ymax>
+      </extent>
+      <id>20170311_142926783000previewtemp_tif20170311142927800</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142926783000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142926783000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>612345</xmin>
+        <ymin>1944195</ymin>
+        <xmax>624345</xmax>
+        <ymax>1956195</ymax>
+      </extent>
+      <id>20170311_142948839000previewtemp_tif20170311142950546</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_142948839000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_142948839000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>611805</xmin>
+        <ymin>1944435</ymin>
+        <xmax>623805</xmax>
+        <ymax>1956435</ymax>
+      </extent>
+      <id>20170311_143031977000previewtemp_tif20170311143033743</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_143031977000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_143031977000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Vegetation" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Bareland" color="#ffaa7f"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>609855</xmin>
+        <ymin>1945215</ymin>
+        <xmax>621855</xmax>
+        <ymax>1957215</ymax>
+      </extent>
+      <id>20170311_143051316000previewtemp_tif20170311143053157</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_143051316000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_143051316000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>609975</xmin>
+        <ymin>1946685</ymin>
+        <xmax>621975</xmax>
+        <ymax>1958685</ymax>
+      </extent>
+      <id>20170311_143059084000previewtemp_tif20170311143100848</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_143059084000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_143059084000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>610455</xmin>
+        <ymin>1944105</ymin>
+        <xmax>622455</xmax>
+        <ymax>1956105</ymax>
+      </extent>
+      <id>20170311_143103807000previewtemp_tif20170311143105511</id>
+      <datasource>C:/Users/CHINGC~1/AppData/Local/Temp/semiautomaticclassification/20170311_090607378000/20170311_143103807000previewtemp.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>20170311_143103807000previewtemp.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>478485</xmin>
+        <ymin>1801185</ymin>
+        <xmax>705915</xmax>
+        <ymax>2033715</ymax>
+      </extent>
+      <id>Landsat_utt20170311120215843</id>
+      <datasource>./LC81300482017016LGN00/Reflectance/Landsat_utt.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Landsat_utt</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+        <noDataList bandNo="2" useSrcNoData="1"/>
+        <noDataList bandNo="3" useSrcNoData="1"/>
+        <noDataList bandNo="4" useSrcNoData="1"/>
+        <noDataList bandNo="5" useSrcNoData="1"/>
+        <noDataList bandNo="6" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="4" type="multibandcolor" redBand="5">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>0.0209133235854097</minValue>
+            <maxValue>0.342512842142023</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>0.039348895837029</minValue>
+            <maxValue>0.330440689097275</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>0.0388142618704587</minValue>
+            <maxValue>0.181400507664308</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>478485</xmin>
+        <ymin>1801185</ymin>
+        <xmax>705915</xmax>
+        <ymax>2033715</ymax>
+      </extent>
+      <id>RT_LC81300482017016LGN00_Bstack_raster_tif20170311103459016</id>
+      <datasource>./LC81300482017016LGN00/Reflectance/RT_LC81300482017016LGN00_Bstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RT_LC81300482017016LGN00_Bstack_raster.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" blueBand="1" greenBand="5" type="multibandcolor" redBand="4">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>0.0989368</minValue>
+            <maxValue>0.36736</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>0.045</minValue>
+            <maxValue>0.352</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>0.0206984</minValue>
+            <maxValue>0.0794196</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>594819.49165535310748965</xmin>
+        <ymin>1932929.64419369515962899</ymin>
+        <xmax>688339.40523566282354295</xmax>
+        <ymax>1998518.98038264643400908</ymax>
+      </extent>
+      <id>amp_site220170311113537959</id>
+      <datasource>./Shapefiles/amp_site2.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>amp_site2</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <previewExpression></previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AP_CODE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AP_TN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AP_EN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="PV_CODE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="PV_TN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="PV_EN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RE_NESDB">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RE_ROYIN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AreaShape">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ADMIN_TYPE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="194,147,234,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>ID</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name="MS Shell Dlg 2"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <annotationform></annotationform>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <editform></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>594819.49165535310748965</xmin>
+        <ymin>1895027.16124584665521979</ymin>
+        <xmax>731876.55773982871323824</xmax>
+        <ymax>2033675.34362613363191485</ymax>
+      </extent>
+      <id>amphoe_utt20170311112804432</id>
+      <datasource>./Shapefiles/amphoe_utt.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>amphoe_utt</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <previewExpression>COALESCE( "ID", '&lt;NULL>' )</previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AP_CODE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AP_TN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AP_EN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="PV_CODE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="PV_TN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="PV_EN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RE_NESDB">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RE_ROYIN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AreaShape">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ADMIN_TYPE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="1,255,166,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>ID</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name="MS Shell Dlg 2"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <annotationform></annotationform>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <editform></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>478485</xmin>
+        <ymin>1801185</ymin>
+        <xmax>705915</xmax>
+        <ymax>2033715</ymax>
+      </extent>
+      <id>lu_classify_shp20170311144339473</id>
+      <datasource>./LC81300482017016LGN00/Reflectance/lu_classify.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>lu_classify.shp</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <previewExpression>COALESCE( "C_ID", '&lt;NULL>' )</previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="C_ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 attr="C_ID" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category render="true" symbol="0" value="0" label="0 - Unclassified"/>
+          <category render="true" symbol="1" value="1" label="1 - Urban"/>
+          <category render="true" symbol="2" value="1" label="1 - Urban"/>
+          <category render="true" symbol="3" value="2" label="2 - Forest"/>
+          <category render="true" symbol="4" value="2" label="2 - Forest"/>
+          <category render="true" symbol="5" value="3" label="3 - Deep water"/>
+          <category render="true" symbol="6" value="3" label="3 - Deep water"/>
+          <category render="true" symbol="7" value="4" label="4 - Shallow water"/>
+          <category render="true" symbol="8" value="4" label="4 - Shallow water"/>
+          <category render="true" symbol="9" value="5" label="5 - Rice"/>
+          <category render="true" symbol="10" value="5" label="5 - Rice"/>
+          <category render="true" symbol="11" value="6" label="6 - Agriculture"/>
+          <category render="true" symbol="12" value="6" label="6 - Agriculture"/>
+          <category render="true" symbol="13" value="7" label="7 - Harvest"/>
+          <category render="true" symbol="14" value="7" label="7 - Harvest"/>
+          <category render="true" symbol="15" value="8" label="8 - Moisture"/>
+          <category render="true" symbol="16" value="8" label="8 - Moisture"/>
+        </categories>
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,0,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,0,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="10">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="85,255,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="11">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,255,127,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="12">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,255,127,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="13">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,170,127,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="14">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,170,127,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="15">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="170,170,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="16">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="170,170,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,0,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,85,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,85,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="5">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,0,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="6">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,0,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="7">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,255,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="8">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,255,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="9">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="85,255,0,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="64"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value="C_ID"/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="MS Shell Dlg 2"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="8.25"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="false"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="20"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="0"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Normal"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>C_ID</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name="MS Shell Dlg 2"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Pie">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="-4.65661e-10">
+          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform></annotationform>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <editform></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from PyQt4.QtGui import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>478485</xmin>
+        <ymin>1801185</ymin>
+        <xmax>705915</xmax>
+        <ymax>2033715</ymax>
+      </extent>
+      <id>lu_classify_tif20170311144238026</id>
+      <datasource>./LC81300482017016LGN00/Reflectance/lu_classify.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>lu_classify.tif</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="nan" classificationMinMaxOrigin="Unknown" band="1" classificationMin="nan" type="singlebandpseudocolor">
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0 - Unclassified" color="#000000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="1" label="1 - Urban" color="#ff0000"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="2" label="2 - Forest" color="#005500"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="3" label="3 - Deep water" color="#0000ff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="4" label="4 - Shallow water" color="#00ffff"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="5" label="5 - Rice" color="#55ff00"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="6" label="6 - Agriculture" color="#ffff7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="7" label="7 - Harvest" color="#ffaa7f"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+              <item alpha="255" value="8" label="8 - Moisture" color="#aaaaff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>606375</xmin>
+        <ymin>1934775</ymin>
+        <xmax>655965</xmax>
+        <ymax>1990065</ymax>
+      </extent>
+      <id>roi_utt20170311131710996</id>
+      <datasource>memory?geometry=MultiPolygon&amp;crs=EPSG:32647&amp;index=yes&amp;field=MC_ID:Integer64(10,0)&amp;field=MC_info:String(254,0)&amp;field=C_ID:Integer64(10,0)&amp;field=C_info:String(254,0)&amp;field=SCP_UID:String(254,0)</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>roi_utt</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3131</srsid>
+          <srid>32647</srid>
+          <authid>EPSG:32647</authid>
+          <description>WGS 84 / UTM zone 47N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">memory</provider>
+      <previewExpression></previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="MC_ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MC_info">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="C_ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="C_info">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="SCP_UID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="0,0,0,230"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,230"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield></displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name="MS Shell Dlg 2"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <annotationform></annotationform>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <editform></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString">m2</AreaUnits>
+    </Measurement>
+    <SemiAutomaticClassificationPlugin>
+      <trainingLayer type="QString">D:/QGIS-SCP-Workshop/LC81300482017016LGN00/Reflectance/roi_utt.scp</trainingLayer>
+      <ClassAlgorithm type="QString">Minimum Distance</ClassAlgorithm>
+      <bandSetPresent type="QString">No</bandSetPresent>
+      <rangeRadius type="QString">0.054</rangeRadius>
+      <ROIIDField type="QString">9</ROIIDField>
+      <bndSetWvLn type="QString">[6.0, 4.0, 5.0, 2.0, 3.0, 1.0]</bndSetWvLn>
+      <bndSetMultF type="QString">[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]</bndSetMultF>
+      <bndSetUnit type="QString">E-6m</bndSetUnit>
+      <SCP_RGBList type="QString">[u'-', u'3-2-1', u'4-3-2', u'5-4-3', u'6-5-3', u'4-5-1']</SCP_RGBList>
+      <bandSet type="QString">[u'Landsat_utt#b0', u'Landsat_utt#b1', u'Landsat_utt#b2', u'Landsat_utt#b3', u'Landsat_utt#b4', u'Landsat_utt#b5']</bandSet>
+      <rasterName type="QString">Landsat_utt</rasterName>
+      <ROIMacroIDField type="QString">5</ROIMacroIDField>
+      <ROIInfoField type="QString">Moisture</ROIInfoField>
+      <previewSize type="QString">400</previewSize>
+      <ROIMacroclassInfoField type="QString">Bareland</ROIMacroclassInfoField>
+      <bndSetAddF type="QString">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]</bndSetAddF>
+    </SemiAutomaticClassificationPlugin>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList">
+        <value>amphoe_utt20170311112804432</value>
+        <value>amp_site220170311113537959</value>
+        <value>roi_utt20170311131710996</value>
+      </LayerSnappingList>
+      <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+        <value>disabled</value>
+        <value>disabled</value>
+      </LayerSnappingEnabledList>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList">
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </LayerSnappingToleranceUnitList>
+      <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
+      </LayerSnapToList>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+        <value>0.000000</value>
+        <value>0.000000</value>
+      </LayerSnappingToleranceList>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
